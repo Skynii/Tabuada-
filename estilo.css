@@ -1,0 +1,43 @@
+body{
+  background-color: #ffc288;
+  font: normal 30px;
+  font-family: "Sofia", sans-serif;
+  
+}
+
+header{
+  color:white;
+  text-align: center;
+  font-size: 45px;
+}
+
+section{
+  font-size: 32px;
+  text-align:center;
+  background: #fcecdd;
+  border-radius:10px;
+  padding: 15px 15px;
+  width: 500px;
+  margin:auto;
+  box-shadow: 5px 5px 10px black
+}
+
+button{
+  background-color: #ff6701;
+  border:none;
+  color: white;
+  padding: 15px 15px;
+  text-align: center;
+  text-decoration:inline-block;
+  border-radius: 10px;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+footer{
+  color: white;
+  text-align:center;
+  font:normal;
+  font-family: 'Indie Flower', cursive;
+  font-size: 30px;
+}
